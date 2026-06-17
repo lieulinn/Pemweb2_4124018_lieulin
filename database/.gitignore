@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.mysql*
+=======
+*.sqlite*
+>>>>>>> 47f87a7b17501e79cfc589f448aae29d565e6ea6
